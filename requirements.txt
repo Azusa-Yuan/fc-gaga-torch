@@ -1,0 +1,10 @@
+easy-torch
+easydict
+tensorboard
+tqdm
+timm
+scipy
+setproctitle
+pandas
+tables
+
