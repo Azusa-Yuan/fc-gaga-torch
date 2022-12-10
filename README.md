@@ -9,8 +9,9 @@ Pytorch code for AAAI'21 paper: "[FC-GAGA: Fully Connected Gated Graph Architect
 Offical code:"https://github.com/boreshkinai/fc-gaga"
 
 The code is developed with [BasicTS](https://github.com/zezhishao/BasicTS), a PyTorch-based benchmark and toolbox for time series forecasting.
+</div>
 
-![model](fig/model.png)
+![model.](fig/model.png)
 
 ## Note
 1.The result is not good as origin code.It will increase 10% MAE now.  
