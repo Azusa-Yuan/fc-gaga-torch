@@ -13,7 +13,7 @@ The code is developed with [BasicTS](https://github.com/zezhishao/BasicTS), a Py
 
 ## FC-GAGA
 
-![model.](fig/model.png "FC-GAGA")
+![FC-GAGA](fig/model.png "FC-GAGA")
 
 ## Note
 1.The result is not good as origin code.It will increase 10% MAE now.  

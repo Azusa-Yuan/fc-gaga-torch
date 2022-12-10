@@ -46,7 +46,7 @@ CFG.MODEL.PARAM = {
     "node_id_dim": 64,
     "num_nodes": node, # 207 | 325
     "num_stacks": 3,
-    "epsilon": 0.1,
+    "epsilon": 0.2,
 }
 CFG.MODEL.FROWARD_FEATURES = [0, 1]
 CFG.MODEL.TARGET_FEATURES = [0]
@@ -65,7 +65,7 @@ CFG.TRAIN.OPTIM.PARAM= {
 CFG.TRAIN.LR_SCHEDULER = EasyDict()
 CFG.TRAIN.LR_SCHEDULER.TYPE = "MultiStepLR"
 CFG.TRAIN.LR_SCHEDULER.PARAM= {
-    "milestones":[1, 18, 36, 54, 74],
+    "milestones":[18, 36, 54, 74],
     "gamma":0.5
 }
 
