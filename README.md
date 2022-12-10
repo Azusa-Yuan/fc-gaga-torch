@@ -11,14 +11,16 @@ Offical code:"https://github.com/boreshkinai/fc-gaga"
 The code is developed with [BasicTS](https://github.com/zezhishao/BasicTS), a PyTorch-based benchmark and toolbox for time series forecasting.
 </div>
 
-![model.](fig/model.png)
+## FC-GAGA
+
+![model.](fig/model.png "FC-GAGA")
 
 ## Note
 1.The result is not good as origin code.It will increase 10% MAE now.  
 2.I don't use the same hyper-parameters as origin code. Because when i use the same hyper-parameters, it will appear gradient exploding(epsilon=10).   
 3.I don't use the same LR_SCHEDULER as origin code.  
 4.These problem will be address after 2 months because i am busy now.If
-you can address now, i will appreciate you.(谢谢)  
+you can address them now, i will appreciate it.(谢谢)  
 
 ## Citing
 
