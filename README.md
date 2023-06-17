@@ -20,7 +20,7 @@ The code is developed with [BasicTS](https://github.com/zezhishao/BasicTS), a Py
 2.I don't use the same hyper-parameters as origin code. Because when i use the same hyper-parameters, it will appear gradient exploding(epsilon=10).   
 3.I don't use the same LR_SCHEDULER as origin code.  
 4.These problem will be address after 2 months because i am busy now.If
-you can address them now, i will appreciate it.(谢谢)  
+you can address them now, i will appreciate it.
 
 ## Citing
 
